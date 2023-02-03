@@ -1,2 +1,2 @@
 # travela
-Travel itinerary creator
+Travel itinerary creator as
